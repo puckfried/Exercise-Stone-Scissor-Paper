@@ -1,4 +1,4 @@
-# Exercise-Stone-Scissor-Paper
+# Exercise Stone-Scissor-Paper
 
 Create a simple Stone-Scissor-Paper game. You can chodsse any programming language for solving this task. The game should prompt two players to choose their moves and then determine the winner based on the traditional rules:
  - scissors cut paper
